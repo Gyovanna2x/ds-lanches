@@ -6,7 +6,7 @@
 
 # DS´LANCHES
 
-## Integrantes: <a href="" >Roger Alves Lemos</a>, <a href="https://github.com/vitorsdev20" >Vitor Sousa</a>
+## Integrantes: <a href="" >Roger Alves Lemos</a>, <a href="https://github.com/vitorsdev20" >Vitor Sousa</a>, <a href="https://github.com/Gyovanna2x" >Gyovanna Pereira Da Silva</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/giovannirp/" >Giovani Ribeiro</a>
 
