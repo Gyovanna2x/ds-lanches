@@ -61,3 +61,6 @@ Para configurar e executar o projeto localmente, siga estas etapas:
    npx expo start
    logo após rodar este comando, aperte "a", assim ele irá abrir o projeto em seu Android Studio(caso tenha instalado).
    ```
+## Design Figma 
+
+https://www.figma.com/design/5tLhcBwgjpjDdTep2HnFPS/DS'Lanches!?node-id=0-1&t=6o4z0Ytqji2Joy8S-1
